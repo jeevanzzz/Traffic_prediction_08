@@ -26,8 +26,8 @@ This project uses a **Multi-Layer Perceptron (MLP) Regressor** to predict traffi
 
 ### Setup Instructions
 **1. Clone the repository**
-`git clone https://github.com/jeevanzzz/traffic-prediction.git`
-`cd traffic-prediction`
+`git clone https://github.com/jeevanzzz/Traffic_prediction_08.git`
+`cd Traffic_prediction_08`
 
 **2. Install dependencies**
 `pip install -r requirements.txt`
