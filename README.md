@@ -6,7 +6,7 @@ This project uses a **Multi-Layer Perceptron (MLP) Regressor** to predict traffi
 
 ## 📁 Project Structure
 
-![image](https://github.com/user-attachments/assets/8a984384-0d55-4fd9-9f8d-da50c69a927f)
+![image](https://github.com/user-attachments/assets/f0eefd67-66b0-41b5-a449-92b9df1f6679)
 
 ## 💡 Features
 - Interactive web interface built with HTML/CSS and Flask
