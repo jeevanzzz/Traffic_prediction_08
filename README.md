@@ -1,4 +1,4 @@
-### 🚦 Traffic Prediction using Machine Learning Technique 
+# 🚦 Traffic Prediction using Machine Learning Technique 
 A web-based application that predicts traffic volume based on environmental conditions and calendar inputs using a trained deep learning model.
 
 ## 🧠 Overview
