@@ -1,10 +1,10 @@
-# 🚦 Traffic Prediction using Machine Learning Technique 
+## 🚦 Traffic Prediction using Machine Learning Technique 
 A web-based application that predicts traffic volume based on environmental conditions and calendar inputs using a trained deep learning model.
 
 ## 🧠 Overview
 This project uses a **Multi-Layer Perceptron (MLP) Regressor** to predict traffic volume based on factors such as weather, temperature, time, date, and holiday status to receive a predicted traffic volume and classification (e.g., LOW, MODERATE, HIGH).. The application is built using **Flask** and features a user-friendly frontend for input and visualization.
 
-**📁 Project Structure**
+## 📁 Project Structure
 
 
 ## 💡 Features
@@ -16,79 +16,79 @@ This project uses a **Multi-Layer Perceptron (MLP) Regressor** to predict traffi
 - Custom statement generation describing predicted traffic conditions
 - Machine learning model trained on historical traffic data
 
-**🛠️ Installation & Setup**
+## 🛠️ Installation & Setup
 - Prerequisites
 - Python 3.x
 - Flask
 - pandas
 - scikit-learn
 
-### **Setup Instructions**
-# Clone the repository
+## Setup Instructions
+**1. Clone the repository**
 `git clone https://github.com/jeevanzzz/traffic-prediction.git`
 `cd traffic-prediction`
 
-# Install dependencies
+**2. Install dependencies**
 `pip install -r requirements.txt`
 
-# Run the Flask application
+**3. Run the Flask application**
 `python app.py`
 
-**🚀 Usage**
-# 1. Train the Model
+## 🚀 Usage
+**1. Train the Model**
 - The model is automatically trained when you run the app (model.py handles this during import).
 -  Make sure data/traffic_volume_data.csv exists and is formatted correctly.
   
-# 2. Run the Flask App
+**2. Run the Flask App**
      `python app.py`
 
-# 3. Open in Browser
+**3. Open in Browser**
      - Navigate to:
       `http://127.0.0.1:5000/`
 
-# 4. Use the App
+**4. Use the App**
 - Click "Click me to Train Model" on the homepage.
 - Enter details: date, time, weather, holiday, temperature, etc.
 - Click Predict.
 - View prediction result with a descriptive traffic statement.
 
-**📈 Machine Learning Model**
+## 📈 Machine Learning Model
 - **Model Type**: MLP Regressor (scikit-learn)
 - **Data Source**: Cleaned traffic volume dataset including weather and time-related features.
 - **Scaling**: MinMaxScaler applied to features and target variable.
 - **Evaluation Metric**: Mean Absolute Error (MAE)
 
-**📄 Dataset Description**
-# The dataset includes over 33,000 entries and contains features such as:
+## 📄 Dataset Description
+**The dataset includes over 33,000 entries and contains features such as:**
 - date_time, is_holiday, temperature
 - weather_type, weather_description
 - traffic_volume
 
-# Preprocessing steps include:
+**Preprocessing steps include:**
 - Encoding categorical features
 - Handling missing values
 - Feature scaling
 
-**🧠 How It Works**
+## 🧠 How It Works
 - User inputs relevant details (date, time, weather, etc.)
 - Inputs are transformed into a feature vector.
 - Trained model predicts traffic volume.
 - Volume is categorized and displayed in a user-friendly format.
 
-**📚 Project Report**
+## 📚 Project Report
 - Introduction and problem statement
 - Methodology and ML lifecycle
 - Data preprocessing and visualization
 - Model training and evaluation
 - Results and future scope
 
-**📌 Future Scope**
+## 📌 Future Scope
 - Integration with real-time traffic APIs
 - Deploy using Docker or cloud platforms
 - Extend to city-level traffic analysis
 - Use of advanced deep learning models (e.g., LSTM)
 
-**📃 License**
+## 📃 License
 - This project is licensed under the MIT License.
 - You may freely use, modify, and distribute this software with proper attribution.
 
