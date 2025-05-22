@@ -94,15 +94,15 @@ This project uses a **Multi-Layer Perceptron (MLP) Regressor** to predict traffi
 
 ![image](https://github.com/user-attachments/assets/22004250-d8a7-435d-a7f3-cbae45a780f0)
 
-- **Figure 1:** Traffic Prediction Using Machine Learning(HOME PAGE)
+  **Figure 1:** Traffic Prediction Using Machine Learning(HOME PAGE)
   
 ![image](https://github.com/user-attachments/assets/815256c6-e1d2-4817-ba81-38f0a62af9bf)
 
-- **Figure 2:** Traffic Prediction Using Deep Learning (INPUT INTERFACE)
+   **Figure 2:** Traffic Prediction Using Deep Learning (INPUT INTERFACE)
   
 ![image](https://github.com/user-attachments/assets/93a8cc0c-53bc-4469-ba66-24acd77a68ec)
 
-- **Figure 3:** Traffic Prediction Using Deep Learning (RESULT INTERFACE)   
+  **Figure 3:** Traffic Prediction Using Deep Learning (RESULT INTERFACE)   
 
 ## 📃 License
 - This project is licensed under the MIT License.
