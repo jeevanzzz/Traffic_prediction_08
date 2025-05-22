@@ -96,4 +96,6 @@ This project uses a **Multi-Layer Perceptron (MLP) Regressor** to predict traffi
 For any questions, feedback, or contributions:
 - Open an [issue](https://github.com/jeevanzzz/Traffic_prediction_08-/issues)
 - Or contact the repository owner via [GitHub profile](https://github.com/jeevanzzz)
----
+
+  
+# "Predict tomorrow’s traffic today — smart, simple, and data-driven."
